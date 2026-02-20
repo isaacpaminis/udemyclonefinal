@@ -4,7 +4,7 @@ Overview:
 
 This project is an updated version of my website where I enhanced the layout, design, and responsiveness using CSS positions, CSS animations, and media queries.
 
- CSS Positions:
+CSS Positions:
 
 Improved the structure and alignment of elements using different CSS position properties such as relative, absolute, fixed, and sticky to create a well-organized layout.
 
@@ -19,11 +19,7 @@ Implemented media queries to ensure the website works properly on mobile, tablet
 Technologies Used:
 
 HTML5
-
 CSS
-
 CSS Positions
-
 CSS Animations
-
 Media Queries
